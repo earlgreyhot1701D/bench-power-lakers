@@ -24,12 +24,15 @@ https://www.kaggle.com/earlgreyhot/bench-power-how-bench-players-saved-the-laker
 - Can we quantify momentum shifts using simple stats?
 - How can data storytelling make sports insights more accessible?
 
+![Bench Momentum Chart](Bench%20Power.png)
+
 ---
 
 ## 📁 Repo Contents
-- `bench_power.ipynb`: Jupyter version of the original R analysis (coming soon)
-- `README.md`: Project overview
-- `/images`: (Optional) Visuals from the notebook (add if applicable)
+- `README.md` – Overview of the project
+- `bench_power_placeholder.ipynb` – Starter Jupyter notebook
+- `bench-power.csv` – Original game data
+- `Bench Power.png` – Game momentum visualization
 
 ---
 
